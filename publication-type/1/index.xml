@@ -13,10 +13,31 @@
     </image>
     
     <item>
-      <title>It&#39;s not what you said, it&#39;s how you said it: discriminative perception of speech as a multichannel communication system</title>
-      <link>https://sarenne.github.io/talk/its-not-what-you-said-its-how-you-said-it-discriminative-perception-of-speech-as-a-multichannel-communication-system/</link>
+      <title>IS2022</title>
+      <link>https://sarenne.github.io/project/is2022/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sarenne.github.io/talk/its-not-what-you-said-its-how-you-said-it-discriminative-perception-of-speech-as-a-multichannel-communication-system/</guid>
+      <guid>https://sarenne.github.io/project/is2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Under construction!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s not what you said, it&#39;s how you said it: discriminative perception of speech as a multichannel communication system</title>
+      <link>https://sarenne.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sarenne.github.io/publication/conference-paper/</guid>
       <description>&lt;p&gt;In &lt;em&gt;Interspeech 2021&lt;/em&gt;; Brno, Czech Republic&lt;/p&gt;
 &lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -35,21 +56,24 @@
     </item>
     
     <item>
-      <title>It&#39;s not what you said, it&#39;s how you said it: discriminative perception of speech as a multichannel communication system</title>
-      <link>https://sarenne.github.io/events2/conference-paper/</link>
+      <title>It&#39;s not what you said, it&#39;s how you said it: discriminative perception of speech as a multichannel communication system EVENT</title>
+      <link>https://sarenne.github.io/talk/its-not-what-you-said-its-how-you-said-it-discriminative-perception-of-speech-as-a-multichannel-communication-system-event/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sarenne.github.io/events2/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://sarenne.github.io/talk/its-not-what-you-said-its-how-you-said-it-discriminative-perception-of-speech-as-a-multichannel-communication-system-event/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Interspeech 2021&lt;/em&gt;; Brno, Czech Republic&lt;/p&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -76,40 +100,24 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://sarenne.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://sarenne.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Exploring the Relationship Between Word Form and Word Meaning</title>
+      <link>https://sarenne.github.io/publication/ug-thesis/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sarenne.github.io/publication/ug-thesis/</guid>
+      <description>&lt;p&gt;Supervised by Sharon Goldwater.&lt;/p&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://sarenne.github.io/publication/discrim_speech/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://sarenne.github.io/publication/discrim_speech/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
