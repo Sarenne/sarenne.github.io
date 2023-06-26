@@ -118,6 +118,45 @@ Stimuli:
     </item>
     
     <item>
+      <title>Investigating perception of spoken dialogue acceptability through surprisal</title>
+      <link>https://sarenne.github.io/is-2023/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sarenne.github.io/is-2023/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h2&gt;
+Stimuli page for &lt;i&gt;Interspeech 2023&lt;/i&gt; submission
+&lt;/h2&gt;
+  &lt;h3&gt;
+  Abstract:
+  &lt;/h3&gt;
+    Speech is a fundamental means of communication that can be seen to provide two channels for transmitting information: the lexical channel of which words are said, and the non-lexical channel of *how* they are spoken. Both channels shape listener expectations of upcoming communication; however, directly quantifying their relative effect on expectations is challenging. Previous attempts require spoken variations of lexically-equivalent dialogue turns or conspicuous acoustic manipulations. This paper introduces a generalised paradigm to study the value of non-lexical information in dialogue across unconstrained lexical content. By quantifying the perceptual value of the non-lexical channel with both accuracy and entropy reduction, we show that non-lexical information produces a consistent effect on expectations of upcoming dialogue: even when it leads to poorer discriminative turn judgements than lexical content alone, it yields higher consensus among participants
+&lt;h3&gt;
+Stimuli:
+&lt;/h3&gt;
+  &lt;blockquote&gt;
+  We provide the full sets of stimuli constructed from the Switchboard corpus along with their associated ratings &lt;a href=&#34;https://data.cstr.ed.ac.uk/sarenne/INTERSPEECH2023/&#34;&gt;here &lt;/a&gt;.
+  &lt;/blockquote&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.qualtrics.com/&#34;&gt;Qualtrics&lt;/a&gt; survey (constructed using &lt;a href=&#34;https://github.com/CSTR-Edinburgh/qualtreats&#34;&gt;&lt;code&gt;https://github.com/CSTR-Edinburgh/qualtreats&lt;/code&gt;&lt;/a&gt;) was presented to participants through &lt;a href=&#34;https://www.prolific.co/&#34;&gt;Prolific Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Examples of our presentation in the lexical condition are included below.  Additionally, we provide an example stimulus in the acoustic condition through &lt;a href=&#34;https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_cBg4zwtjHYAlZB4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A lexical stimuli:
+&lt;img src=&#34;screenshots/lexical_stimuli.png&#34; alt=&#34;Lexical stimuli question&#34;&gt;
+A lexical check question:
+&lt;img src=&#34;screenshots/lexical_check.png&#34; alt=&#34;Lexical check question&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IS2022</title>
       <link>https://sarenne.github.io/project/is2022/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
