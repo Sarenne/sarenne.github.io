@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://sarenne.github.io/sitemap.xml
