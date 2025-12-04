@@ -5,12 +5,34 @@
     <link>https://sarenne.github.io/</link>
       <atom:link href="https://sarenne.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarenne</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© `2025`</copyright><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© `2025`</copyright><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sarenne.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sarenne</title>
       <link>https://sarenne.github.io/</link>
     </image>
+    
+    <item>
+      <title>Can Self-Supervised Speech Models Predict the Perceived Acceptability of Prosodic Variation?</title>
+      <link>https://sarenne.github.io/publication/asru2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://sarenne.github.io/publication/asru2025/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;ASRU 2025&lt;/em&gt;; Honolulu, USA&lt;/p&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Prosodic Structure Beyond Lexical Content: A Study of Self-Supervised Learning</title>
